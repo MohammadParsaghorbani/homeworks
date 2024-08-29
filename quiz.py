@@ -27,8 +27,6 @@ while again == "y":
         q = int(input(f"{x}\n"))
         if q == quastions[x]:
             score+=10
-        else:
-            continue
         del quastions[x]
     print(f"your score = {score}")
     if score >=80 and score<=100:
