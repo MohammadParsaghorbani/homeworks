@@ -14,9 +14,14 @@ while again == "y":
         "what is 2+2-4*7?       1)-24      2)0      3)9     4)32" : 1,
         "what is 2+2?      1)2      2)3     3)5     4)4" : 4,
         "what is the color of sky in evening?      1)red      2)blue     3)orange     4)black" : 3,
-        
+        "when schools will start?    1)mehr     2)aban      3)esfand      4)khordad" : 1,
+        "what is 20 -10*2?      1)10     2)20      3)15     4)0" : 4,
+        "midnight=?     1)12pm   2)9pm      3)6am    4)12am" : 1,
+        "color of sheep?       1)black       2)white      3)green      4)red" : 2,
+        "book make whit....      1)wood     2)paper     3)stone     4)1,2" : 4,
+        "number of month = ?     1)10    2)12     3)6      4)4" : 2
         }  
-    for i in range(3): 
+    for i in range(10): 
         z = list(quastions.keys())
         x = rnd.choice(z)
         q = int(input(f"{x}\n"))
