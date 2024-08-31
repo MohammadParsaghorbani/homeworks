@@ -36,5 +36,5 @@ while again == "y":
     elif score == 50:
         print("ont bad,try again")
     else:
-        print("sorry,you fail\ntry again")        
+        print("sorry,you fail\ntry again")
     again = input("do you want to have quiz again?y/n ")
