@@ -1,0 +1,36 @@
+today = 2024/9/15 - 23:01:15.909302
+name = parsa
+last name = ghorbani
+***********************
+a = (1,2,3)
+print(list(a))
+1)[1,2,3]	2)(1,2,3)
+3)1,2,3 	4)error
+
+answer = 4
+correct answer = 1 
+wrong
+***********************
+which one is not str?
+1)'1'		2)str('2')
+3)ord('a') 	4)chr(90)
+
+answer = 2
+correct answer = 3 
+wrong
+***********************
+we use ___ to make arrey:
+1)list 		2)numpy
+3)tuple 	4)set
+
+answer = 1
+correct answer = 2 
+wrong
+***********************
+we use ____ for remove item from list:
+1)remove	2)pop
+3)delete 	4)1 and 2
+
+answer = 3
+correct answer = 4 
+wrong
